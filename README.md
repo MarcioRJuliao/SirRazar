@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @SirRazar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning the basics on coding. 
-- 💞️ I’m looking to collaborate on nothing by now. 
+- 👋 Hi, I’m Márcio Julião
+- 👀 I’m interested in UX/UI
+- 🌱 I’m currently learning the basics on coding.  
 - 📫 How to reach me -> E-mail: Marciorjuliao@gmail.com
 
 <!---
